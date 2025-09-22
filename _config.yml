@@ -14,34 +14,35 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 0xElShabrawi Cyber Security Blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Security is a culture, not a control. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Security is a culture, not a control.
+
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://0xelshabrawi.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: 0xelshabrawi # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: 0xelshabrawi # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Yasser Ashraf ElShabrawi
+  email: tech.yasser.elshabrawi@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/0xelshabrawi # change to your Twitter homepage
+    - https://github.com/0xelshabrawi # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/xelshabrawi
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
@@ -88,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -98,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/540440139_1057664996448614_2860442237011423639_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2h_qqUE79E8Q7kNvwHl-w5I&_nc_oc=AdnRjVToR09UlzRXhWP8CYT9GUZ17IG1Ap7Cnp1_Tct4TUnnxtdE1_TT4PBZRr392LM&_nc_zt=23&_nc_ht=scontent.fcai19-8.fna&_nc_gid=859HYPAN5JApFoXzgjNZtg&oh=00_AfYRclrwnvJwZDesS0sAcJk3Flm4YDcQGCuwAjYLhpl6Pw&oe=68D7232E
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -195,6 +196,10 @@ defaults:
 
 sass:
   style: compressed
+
+  include:
+  - assets/css/rtl.scss
+
 
 compress_html:
   clippings: all

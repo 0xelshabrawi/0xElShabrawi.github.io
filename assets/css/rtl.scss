@@ -1,0 +1,24 @@
+---
+---
+
+html {
+  direction: rtl;
+  text-align: right;
+}
+
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+
+.post-content,
+.sidebar,
+.navbar,
+.footer {
+  text-align: right;
+}
+
+ul, ol {
+  padding-right: 1.5em;
+  padding-left: 0; /* شيل البادينج اللي للشمال */
+}
