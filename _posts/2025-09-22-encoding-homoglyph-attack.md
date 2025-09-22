@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "فهم الترميز (Encoding) وهجمات Homograph وHomoglyph: دليل شامل"
-date: 2025-09-23 10:00:00 +0000
 description: "في المقالة دي، هنفهم إيه هو الترميز، أنواعه، وإزاي بيُستخدم في هجمات الـ Phishing زي Homograph وHomoglyph. مع أمثلة عملية ونصائح أمان."
 tags:
   - encoding
