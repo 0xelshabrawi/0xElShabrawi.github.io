@@ -99,7 +99,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/540440139_1057664996448614_2860442237011423639_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2h_qqUE79E8Q7kNvwHl-w5I&_nc_oc=AdnRjVToR09UlzRXhWP8CYT9GUZ17IG1Ap7Cnp1_Tct4TUnnxtdE1_TT4PBZRr392LM&_nc_zt=23&_nc_ht=scontent.fcai19-8.fna&_nc_gid=859HYPAN5JApFoXzgjNZtg&oh=00_AfYRclrwnvJwZDesS0sAcJk3Flm4YDcQGCuwAjYLhpl6Pw&oe=68D7232E
+avatar: https://avatars.githubusercontent.com/u/233619033
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
