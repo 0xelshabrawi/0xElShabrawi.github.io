@@ -19,7 +19,7 @@ categories:
 
 من فترة انتشر بوستات كتير عن شخص عامل Domain بيستخدموه في الـPhishing وعمل الدومين على شكل `rnicrosoft` عشان يبان أكانها `microsoft` ولكنها مكتوبة `r+n` .. 
 
-![rn-microsoft-example]({{ site.url }}/assets/images/1-rn.png)
+![rn-microsoft-example]({{ site.url }}/assets/images/1-rn.jpg)
 
 ودا Technique قديم وشائع جدًا في الـPhishing attacks إسمه Homograph attack ..  
 فـ حبيت أتكلم عن الـHomograph وHomoglyph attack في المقالة دي بالتفاصيل حتى تضمن عزيزي القارئ قراءة مُمتعة بعون الله وفضله..
