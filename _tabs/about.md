@@ -3,6 +3,11 @@
 icon: fas fa-info-circle
 order: 4
 ---
+أنا **ياسر أشرف الشبراوي**، شغال كـ **Network Engineer** حاليًا
+بحب مجال **السيكيوريتي (Penetration testing)**، وناوي من خلال البلوج دي أشارك خبرتي ومعرفتي عشان نِثري المحتوى العربي بحاجة مفيدة وهادفة.  
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+هتلاقوا هنا مقالات عن:  
+- **Penetration testing & Bug Bounty**.    
+- شروحات تخص **اللـNetworking** والبنية التحتية.  
+
+البلوج دي ما هي إلا هدف لتقديم محتوى علمي باللغة العربية يكون مُفيد لطالب العلم.
